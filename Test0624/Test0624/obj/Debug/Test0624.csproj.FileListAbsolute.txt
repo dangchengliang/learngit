@@ -1,0 +1,16 @@
+F:\c#学习\Test0624\Test0624\bin\Debug\Test0624.exe.config
+F:\c#学习\Test0624\Test0624\bin\Debug\Test0624.exe
+F:\c#学习\Test0624\Test0624\bin\Debug\Test0624.pdb
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.csprojAssemblyReference.cache
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.activex.resources
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.Properties.Resources.resources
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.csproj.GenerateResource.cache
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.csproj.CoreCompileInputs.cache
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.exe
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.pdb
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.NewForm.resources
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.Form3.resources
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.Form4.resources
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.ListBoxl.resources
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.ComboBoxForm.resources
+F:\c#学习\Test0624\Test0624\obj\Debug\Test0624.MonthCalenderForm.resources
