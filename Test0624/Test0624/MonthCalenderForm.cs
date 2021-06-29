@@ -20,7 +20,7 @@ namespace Test0624
         private void button1_Click(object sender, EventArgs e)
         {
             monthCalendar1.Visible = true;
-            monthCalendar1.Show();
+            //monthCalendar1.Show();
             button2.Visible = true;
            
         }
