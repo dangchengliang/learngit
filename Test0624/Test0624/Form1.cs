@@ -100,7 +100,7 @@ namespace Test0624
             if (textBox1.Text == "dcl" && textBox2.Text == "123456")
             {
                 DialogResult drs = MessageBox.Show("登录成功");
-                MonthCalenderForm newForm = new MonthCalenderForm();
+                ContexMenuForm newForm = new ContexMenuForm();
                 newForm.Show();
             }
             else
