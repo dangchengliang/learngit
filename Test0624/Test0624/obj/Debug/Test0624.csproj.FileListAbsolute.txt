@@ -31,3 +31,4 @@ E:\learngit\Test0624\Test0624\obj\Debug\Test0624.csproj.GenerateResource.cache
 E:\learngit\Test0624\Test0624\obj\Debug\Test0624.csproj.CoreCompileInputs.cache
 E:\learngit\Test0624\Test0624\obj\Debug\Test0624.exe
 E:\learngit\Test0624\Test0624\obj\Debug\Test0624.pdb
+E:\learngit\Test0624\Test0624\obj\Debug\Test0624.StatusStripForm.resources

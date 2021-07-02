@@ -40,7 +40,8 @@ namespace Test0624
             else
             {
                 MessageBox.Show("您的爱好为：" +habits.Substring(0,habits.Length-1));
-                ListBoxl lb = new ListBoxl(habitdata);
+                ComboBoxForm lb = new ComboBoxForm();
+                DCLCommon.habits = habits;
                 lb.Show();
             }
         }

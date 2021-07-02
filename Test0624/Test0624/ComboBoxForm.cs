@@ -51,7 +51,10 @@ namespace Test0624
             {
                 comboBox1.Items.Add(AddItem);
                 MessageBox.Show("添加成功");
+                DCLCommon.skills = textBox1.Text;
                 textBox1.Text = string.Empty;
+                StatusStripForm sf = new StatusStripForm();
+                sf.Show();
             }
         }
 

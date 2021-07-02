@@ -97,10 +97,11 @@ namespace Test0624
         /// </summary>
         public  void Login()
         {
-            if (textBox1.Text == "dcl" && textBox2.Text == "123456")
+            if (textBox1.Text.Trim() == "dcl" && textBox2.Text == "123456")
             {
                 DialogResult drs = MessageBox.Show("登录成功");
-                ContexMenuForm newForm = new ContexMenuForm();
+                DCLCommon.userName = textBox1.Text.Trim();
+                Form3 newForm = new Form3();
                 newForm.Show();
             }
             else
