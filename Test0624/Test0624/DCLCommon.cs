@@ -12,12 +12,12 @@ namespace Test0624
     public class DCLCommon
     {
         //用户姓名
-        public static string userName { get; set; }
+        public static string userName;
 
         //用户爱好
-        public static object habits { get; set; }
+        public static object habits;
 
         //专业技能
-        public static object skills { get; set; }
+        public static object skills;
     }
 }

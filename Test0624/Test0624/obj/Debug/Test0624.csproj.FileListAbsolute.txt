@@ -32,3 +32,7 @@ E:\learngit\Test0624\Test0624\obj\Debug\Test0624.csproj.CoreCompileInputs.cache
 E:\learngit\Test0624\Test0624\obj\Debug\Test0624.exe
 E:\learngit\Test0624\Test0624\obj\Debug\Test0624.pdb
 E:\learngit\Test0624\Test0624\obj\Debug\Test0624.StatusStripForm.resources
+E:\learngit\Test0624\Test0624\bin\Debug\Test0624.exe.manifest
+E:\learngit\Test0624\Test0624\bin\Debug\Test0624.application
+E:\learngit\Test0624\Test0624\obj\Debug\Test0624.exe.manifest
+E:\learngit\Test0624\Test0624\obj\Debug\Test0624.application

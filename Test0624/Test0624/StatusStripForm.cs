@@ -10,8 +10,10 @@ using System.Windows.Forms;
 
 namespace Test0624
 {
-    public partial class StatusStripForm : Form
+    
+    public partial  class StatusStripForm : Form
     {
+        
         public StatusStripForm()
         {
             InitializeComponent();
